@@ -1,0 +1,18 @@
+package com.db;
+
+import com.mysql.cj.xdevapi.SessionFactory;
+
+public class HibernateUtil {
+	
+	
+	private static SessionFactory
+	public static SessionFactory getSessionFactory() {
+		
+		
+		if (SessionFactory==null) {
+			
+			
+		}
+	}
+
+}
